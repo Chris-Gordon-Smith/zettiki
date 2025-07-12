@@ -17,4 +17,4 @@ The project may grow to include additional tools and components. Its core ideas 
 
 ### Acknowledgements
 
-Zettiki is made possible by the work of the [org-roam](https://www.orgroam.com/) project, which provides Emacs users with powerful functionality for editing and linking notes. The author gratefully acknowledges the work of Jethro and the wider org-roam community.
+Zettiki is made possible by the work of the [org-roam](https://www.orgroam.com/) project, which provides Emacs users with powerful functionality for editing and linking notes. The author gratefully acknowledges the work of Jethro Kuan and the wider org-roam community.
