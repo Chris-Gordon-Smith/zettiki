@@ -10,8 +10,7 @@ of knowledge."
 Zettiki is based on the **Zettelkasten** method — a way of
 recording and structuring knowledge by writing short, linked notes.
 
-Zettiki draws on [org-roam](https://www.orgroam.com/),  
-which implements this approach for Emacs users using plain-text files.  
+Zettiki draws on [org-roam](https://www.orgroam.com/), which implements this approach for Emacs users using plain-text files.  
 Zettiki uses org-roam data to generate static, interconnected maps  
 that can be browsed locally or published to the web.
 
